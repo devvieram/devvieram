@@ -4,15 +4,12 @@
 <div>
 <img src="https://raw.githubusercontent.com/devvieram/devvieram/main/assets/icon.png" width="25%" align="left"/>
 <pre align="left">
-    ✦ 20 — he/they — ram 🐏
+    ✦ 21 — he/him — ram 🐏
     ✦ back-end dev. — network & security researcher
     ✦ cybersecurity & networking @ vc + ucf
-    ✦ music — photography — homelabs — skid
+    ✦ music — homelabs — skid
 </pre>
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/devvieram/devvieram/main/assets/petpet.gif" height="60"/>
-<br>
-<a href="https://www.furtrack.com/user/devvie"><img alt="furtrack" src="https://img.shields.io/badge/furtrack-2D0E4C"></a>
-<a href="https://www.youtube.com/@devvielol"><img alt="youtube" src="https://img.shields.io/badge/youtube-FF0000"></a>
 </div>
